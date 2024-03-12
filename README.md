@@ -13,3 +13,4 @@
 7. [Dbeaver](https://dbeaver.io/download/) - sudo snap install dbeaver-ce
 8. [Filezilla]() - sudo apt install filezilla
 9. Terminal package: sudo apt install tmux lm-sensors htop php8.2-cli php8.2-mysql php8.2-zip php8.2-mbstring php8.2-gd php8.2-intl
+10. [Zoom](https://zoom.us/client/5.17.11.3835/zoom_amd64.deb)
