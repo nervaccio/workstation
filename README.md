@@ -9,3 +9,6 @@
 3. [Portainer.io](https://docs.portainer.io/start/install-ce/server/docker/linux)
 4. [qTorrent](https://docs.linuxserver.io/images/docker-qbittorrent/)
 5. [Jellyfin](https://docs.linuxserver.io/images/docker-jellyfin/#docker-cli-click-here-for-more-info)
+6. [VSCode](https://code.visualstudio.com/Download)
+7. [Dbeaver](https://dbeaver.io/download/) - sudo snap install dbeaver-ce
+8. [Filezilla]() - sudo apt install filezilla
