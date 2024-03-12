@@ -12,4 +12,4 @@
 6. [VSCode](https://code.visualstudio.com/Download)
 7. [Dbeaver](https://dbeaver.io/download/) - sudo snap install dbeaver-ce
 8. [Filezilla]() - sudo apt install filezilla
-9. Terminal package: sudo apt install tmux lm-sensors htop
+9. Terminal package: sudo apt install tmux lm-sensors htop php8.2-cli php8.2-mysql php8.2-zip php8.2-mbstring php8.2-gd php8.2-intl
