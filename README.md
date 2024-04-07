@@ -15,6 +15,7 @@
 9. Terminal package: sudo apt install tmux lm-sensors htop php8.2-cli php8.2-mysql php8.2-zip php8.2-mbstring php8.2-gd php8.2-intl
 10. [Zoom](https://zoom.us/client/5.17.11.3835/zoom_amd64.deb)
 11. [OBS](https://obsproject.com/kb/linux-installation)
-12. [Zsh + Oh My Zsh](https://ohmyz.sh/#install)
+12. UFW - sudo apt install ufw
+13. [Zsh + Oh My Zsh](https://ohmyz.sh/#install)
     - sudo apt install zsh
     - sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
